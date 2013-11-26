@@ -1,3 +1,6 @@
+Prezentacja z warsztatów http://sdrv.ms/1cqheeF
+
+
 SimpleAndroidMoviePlayer
 ========================
 
