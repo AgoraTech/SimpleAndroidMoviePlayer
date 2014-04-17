@@ -1,4 +1,4 @@
-Prezentacja z warsztatów http://sdrv.ms/1cqheeF
+Prezentacja z warsztatów http://1drv.ms/1eVPuiw
 
 
 SimpleAndroidMoviePlayer
